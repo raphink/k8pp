@@ -42,7 +42,7 @@
 </head>
 <body>
     <div class="box">
-        <h1>hexagonal avatar generator</h1>
+        <h1>heptagonal avatar generator</h1>
         <h2>just right-click save it! it's free!</h2>
         <p>
             <canvas id="avatar" width="400" height="400"></canvas>
@@ -60,12 +60,12 @@
     var fileinput = document.getElementById('rawfile'); // input file
     var img = new Image();
     var mask = new Image()
-    mask.src = 'hexagon.png';
+    mask.src = 'heptagon.png';
 
     canvas.onclick = () => {
         download_image = canvas.toDataURL("image/png", 1.0).replace("image/png", "image/octet-stream");
         var dl_link = document.createElement('a');
-        dl_link.download = "hex-avatar.png";
+        dl_link.download = "k8s-pp.png";
         dl_link.href = download_image;
         dl_link.click();
     }
