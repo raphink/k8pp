@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="205.96141mm"
+   height="200.43694mm"
+   viewBox="0 0 205.96141 200.43694"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="./heptagon.png"
+   inkscape:export-xdpi="274.69901"
+   inkscape:export-ydpi="274.69901"
+   sodipodi:docname="heptagon.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:zoom="0.56627162"
+     inkscape:cx="500.64314"
+     inkscape:cy="430.00566"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     borderlayer="true" />
+  <defs
+     id="defs2">
+    <filter
+       id="mask-powermask-path-effect2498_inverse"
+       inkscape:label="filtermask-powermask-path-effect2498"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect2498_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect2498_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.6651165,-19.740856)">
+    <path
+       id="rect2052"
+       style="fill:#ffffff;fill-opacity:1;stroke:#fffff3;stroke-width:1.09554;stop-color:#000000;stroke-opacity:1"
+       d="M -72.271484 -43.90625 L -72.271484 796.42969 L 847.58008 796.42969 L 847.58008 -43.90625 L -72.271484 -43.90625 z M 386.78125 37.855469 A 46.724621 46.342246 0 0 1 409.4375 42.386719 L 653.8125 159.07422 A 46.724621 46.342246 0 0 1 679.09375 190.51172 L 739.46875 452.76172 A 46.724621 46.342246 0 0 1 730.4375 491.98047 L 561.375 702.29297 A 46.724621 46.342246 0 0 1 524.84375 719.69922 L 253.625 719.76172 A 46.724621 46.342246 0 0 1 217.09375 702.32422 L 47.96875 492.04297 A 46.724621 46.342246 0 0 1 45.3125 488.35547 A 46.724621 46.342246 0 0 1 38.96875 452.82422 L 99.25 190.57422 A 46.724621 46.342246 0 0 1 124.53125 159.13672 L 368.875 42.386719 A 46.724621 46.342246 0 0 1 386.78125 37.855469 z "
+       transform="matrix(0.26458333,0,0,0.26458333,-4.6651165,19.740856)" />
+  </g>
+</svg>
